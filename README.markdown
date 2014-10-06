@@ -11,7 +11,7 @@ Install pagothen first
 Install gitcommitmsg.vim
 
     cd ~/.vim/bundle
-    git clone 
+    git clone https://github.com/nghiank/gitcommitmsg.git
 
 ## How to use
 
